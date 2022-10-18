@@ -29,3 +29,6 @@ __Hi, I'm Adrian Sengondo Mvungi. I am using reliable tools to design software s
 <!-- 📈 my github stats -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adryxTZ&show_icons=true&theme=gotham" alt="adryxTZ" />
+
+
+https://api.daily.dev/devcards/e1a67fd74d2f42bea04856c0ab75afec.png?r=p4j
