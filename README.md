@@ -30,5 +30,7 @@ __Hi, I'm Adrian Sengondo Mvungi. I am using reliable tools to design software s
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adryxTZ&show_icons=true&theme=gotham" alt="adryxTZ" />
 
-<br><br><br>
-<img height="20rem" src="https://api.daily.dev/devcards/e1a67fd74d2f42bea04856c0ab75afec.png?r=p4j">
+<br><br>
+  <center>
+<img style="height:25rem;" src="https://api.daily.dev/devcards/e1a67fd74d2f42bea04856c0ab75afec.png?r=p4j">
+  </center>
