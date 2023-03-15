@@ -2,7 +2,7 @@
 
 I am on social media.
 
-<a href="https://tz.linkedin.com/in/jack-k-b7354017a?trk=profile-badge/">
+<a href="https://www.linkedin.com/in/adrian-s-mvungi-684811a6/">
   <img align="left" alt="jack's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
