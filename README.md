@@ -41,7 +41,7 @@ __Hi, I'm Adrian Sengondo Mvungi. I am using reliable tools to design software s
   
   
   
-  
+<!--   
 ![](https://komarev.com/ghpvc/?username=kalebu)
 
 
@@ -272,3 +272,4 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) 
 
+ -->
