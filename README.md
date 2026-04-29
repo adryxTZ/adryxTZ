@@ -18,6 +18,13 @@ My experience spans across dozens of large-scale enterprise, logistics, educatio
   * **LSF (Legal Services Facility):** Built full-stack legal administration web platforms and mobile apps for paralegals and clients.
   * **TAMISEMI Maoni Portal:** Managed critical database deployments and optimized massive ~500MB PostgreSQL environments for government use.
 
+* 🚗 **Logistics, Transit & Ride-Hailing**
+  * **Songa Ride:** Architected the complete backend revamp and developed the driver/rider mobile applications (Flutter/Dart) and operational dashboard for the Songa transportation ecosystem.
+  * **Central Corridor (CCTTFA):** Developed the comprehensive frontend, backend, and mobile applications to facilitate transit and transport across the Central Corridor.
+
+* 💬 **Telecom & Large-Scale Messaging**
+  * **RapidPro Ecosystem:** Managed massive deployments and custom integrations for RapidPro, including specialized MNO SMS gateway integrations and government-hosted instances.
+
 * 🎓 **Education & E-Learning Systems**
   * **ACISP Digital Learning Platform:** Engineered multiple iterations of an online self-paced learning system, including community portals and digital gateways.
   * **Moodle LMS Deployments:** Managed and customized large-scale Moodle deployments for organizations like **UNESCO** and TCPD, including custom PHP/Apache Docker environments.
