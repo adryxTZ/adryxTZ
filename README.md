@@ -16,7 +16,7 @@ My experience spans across dozens of large-scale enterprise, logistics, educatio
   * **UN Projects & Tawifa:** Engineered and deployed specialized solutions for large-scale organizational initiatives.
   * **TRA & URA Ecosystems:** Developed secure, internal, and taxpayer-facing portals including Tax Return APIs, Debt Management Backends, and the URA CRM. 
   * **LSF (Legal Services Facility):** Built full-stack legal administration web platforms and mobile apps for paralegals and clients.
-  * **TAMISEMI Maoni Portal:** Managed critical database deployments and optimized massive ~500MB PostgreSQL environments for government use.
+  * **TAMISEMI Maoni Portal:** Managed critical database deployments and optimized massive ~20TB PostgreSQL environments for government use.
 
 * 🚗 **Logistics, Transit & Ride-Hailing**
   * **Songa Ride:** Architected the complete backend revamp and developed the driver/rider mobile applications (Flutter/Dart) and operational dashboard for the Songa transportation ecosystem.
