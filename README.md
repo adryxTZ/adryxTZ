@@ -81,7 +81,6 @@ My fingerprints are on repositories and projects across multiple organizations, 
   * **Music:** Heavy rotation of conscious hip-hop and protest music.
   * **Design:** Researching modern architectural floor plans and house designs.
   * **Automotive:** Analyzing specs for heavy-duty vehicles (Toyota Land Cruiser series, FJ Cruiser).
-  * **Sports:** Monitoring UEFA Europa and Conference League football odds.
 
 * **How to reach me !!**
   * [asengondo@gmail.com](mailto:asengondo@gmail.com) | [Twitter](https://twitter.com/adryxshaft) | [LinkedIn](https://www.linkedin.com/in/adrian-s-mvungi-684811a6/)
