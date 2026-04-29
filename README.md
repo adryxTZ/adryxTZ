@@ -4,7 +4,7 @@ Hello there !!
 
 ### Who am I ?
 
-I'm **[Adrian Sengondo Mvungi](#)**, a Software & Business Solutions Architect based in Tanzania. I specialize in bridging the gap between complex business needs and scalable technology. 
+I'm **[Adrian Sengondo Mvungi](#)**, a Software Architect, Business Solution Architect, and Full-Stack Developer based in Tanzania. I specialize in bridging the gap between complex business needs and scalable technology. 
 
 With a deep track record of leading technical deployments for major organizations, I design multi-tenant SaaS platforms, enterprise ERPs, and secure e-government infrastructure. I don't just write code—I build ecosystems that drive operational efficiency and handle complex data processing at scale.
 
